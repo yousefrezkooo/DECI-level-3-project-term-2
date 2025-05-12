@@ -1,13 +1,26 @@
-# Dynamic Web Page Project
+# Dynamic Web Page
 
-This project requires you to build a multi-section landing page, with a dynamically updating navigational menu based on the amount of content that is added to the page.
+A modern, responsive web page featuring multiple interactive sections, including a dedicated comments area and smooth scrolling navigation for an enhanced user experience.
 
 ---
 
-## Instructions
+## Features
 
-The starter project has some HTML and CSS styling to display a static version of the Dynamic Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+- Multiple content sections for organized information display
+- Interactive comments section for user engagement
+- Smooth scrolling for seamless navigation
+- Fully responsive design for all devices
 
-To get started, open `js/app.js` and start building out the app's functionality
+---
 
-For more detailed requirements, see the project instructions in the Udacity Classroom.
+## Technologies Used
+
+- **HTML5**  
+    Semantic markup for structured content
+
+- **CSS3**  
+    Custom styles and responsive layouts
+
+- **JavaScript**  
+    Dynamic interactions and smooth scrolling
+
